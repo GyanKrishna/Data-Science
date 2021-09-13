@@ -1,7 +1,7 @@
 # Data-Science
 It contains the Projects done as part of Master's in Data Science
 
-Please find the project's task divided as part of 4 weeks.
+Please find the project's task which was decided into 4 weeks.
 Problem Statement
 
     NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases.
